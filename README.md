@@ -13,7 +13,7 @@ SUMIFS, COUNTIFS, AVERAGEIFS, IF and a pivot table.
 - [x] 3. Total revenue (SUM)
 - [x] 4. Revenue per commune (SUMIFS)
 - [x] 5. Sales per seller (COUNTIFS)
-- [ ] 6. Averages with AVERAGEIFS
+- [x] 6. Averages with AVERAGEIFS
 - [ ] 7. SUMIFS with two conditions
 - [ ] 8. IF flag and COUNTIF
 - [ ] 9. Category and profit with XLOOKUP
