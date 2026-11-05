@@ -15,7 +15,7 @@ SUMIFS, COUNTIFS, AVERAGEIFS, IF and a pivot table.
 - [x] 5. Sales per seller (COUNTIFS)
 - [x] 6. Averages with AVERAGEIFS
 - [x] 7. SUMIFS with two conditions
-- [ ] 8. IF flag and COUNTIF
+- [x] 8. IF flag and COUNTIF
 - [ ] 9. Category and profit with XLOOKUP
 - [ ] 10. Pivot table check
 - [ ] 11. Findings
